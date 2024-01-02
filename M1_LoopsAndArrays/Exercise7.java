@@ -1,4 +1,4 @@
-package com.sohail.LoopsAndArrays;
+package com.sohail.M1_LoopsAndArrays;
 import java.util.Arrays;
 
 public class Exercise7 {

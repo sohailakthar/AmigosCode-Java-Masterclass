@@ -1,11 +1,13 @@
-package com.sohail.LoopsAndArrays;
+package com.sohail.M1_LoopsAndArrays;
 import java.util.Arrays;
 
-public class Exercise2 {
+public class Exercise3 {
     public static void main(String[] args) {
         int[] arr = new int[3];
 
         Arrays.fill(arr, 4);
+
+        arr[1] = 17;
 
         System.out.println(Arrays.toString(arr));
     }

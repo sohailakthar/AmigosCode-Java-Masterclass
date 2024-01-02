@@ -1,9 +1,11 @@
-package com.sohail.LoopsAndArrays;
+package com.sohail.M1_LoopsAndArrays;
 import java.util.Arrays;
 
-public class Exercise5 {
+public class Exercise2 {
     public static void main(String[] args) {
-        String[] arr = {"a", "b", "c", "d"};
+        int[] arr = new int[3];
+
+        Arrays.fill(arr, 4);
 
         System.out.println(Arrays.toString(arr));
     }

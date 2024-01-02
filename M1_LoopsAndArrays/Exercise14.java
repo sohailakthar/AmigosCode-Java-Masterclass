@@ -1,6 +1,4 @@
-package com.sohail.LoopsAndArrays;
-
-import java.util.Arrays;
+package com.sohail.M1_LoopsAndArrays;
 
 public class Exercise14 {
     public static void main(String[] args) {
