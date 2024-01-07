@@ -1,0 +1,16 @@
+package com.sohail.M12_ClassesAndObjects;
+
+public class Lec5_PersonAndCatExample {
+    public static void main(String[] args) {
+        Cat rose = new Cat("Rose", 3, "White");
+        Cat mini = new Cat("Mini", 2, "Black");
+
+        Cat[] cats = new Cat[] {rose, mini};
+
+        Person peter = new Person("Peter", "Parker", Gender.MALE);
+        Person emma = new Person("Emma", "Watson", Gender.FEMALE, cats);
+
+        System.out.println(peter.toString());
+        System.out.println(emma.toString());
+    }
+}
