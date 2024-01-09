@@ -1,4 +1,4 @@
-package com.sohail.BigDecimalDemo;
+package com.sohail.M7_Dates.BigDecimalDemo;
 
 import java.math.BigDecimal;
 

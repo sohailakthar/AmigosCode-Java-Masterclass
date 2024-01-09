@@ -1,4 +1,4 @@
-package com.sohail.M12_ClassesAndObjects;
+package com.sohail.M12_ClassesAndObjects.Car;
 
 import java.io.Serializable;
 import java.math.BigDecimal;

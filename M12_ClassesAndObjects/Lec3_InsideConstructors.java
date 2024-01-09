@@ -1,5 +1,7 @@
 package com.sohail.M12_ClassesAndObjects;
 
+import com.sohail.M12_ClassesAndObjects.Cat.Cat;
+
 public class Lec3_InsideConstructors {
     public static void main(String[] args) {
         Cat star = new Cat("Star");

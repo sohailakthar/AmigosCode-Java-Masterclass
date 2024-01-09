@@ -1,5 +1,7 @@
 package com.sohail.M12_ClassesAndObjects;
 
+import com.sohail.M12_ClassesAndObjects.Car.Car;
+
 import java.math.BigDecimal;
 
 public class Lec6_JavaBean {

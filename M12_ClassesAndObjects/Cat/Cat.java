@@ -1,4 +1,4 @@
-package com.sohail.M12_ClassesAndObjects;
+package com.sohail.M12_ClassesAndObjects.Cat;
 
 import java.util.Objects;
 

@@ -1,5 +1,9 @@
 package com.sohail.M12_ClassesAndObjects;
 
+import com.sohail.M12_ClassesAndObjects.Cat.Cat;
+import com.sohail.M12_ClassesAndObjects.Person.Gender;
+import com.sohail.M12_ClassesAndObjects.Person.Person;
+
 public class Lec5_PersonAndCatExample {
     public static void main(String[] args) {
         Cat rose = new Cat("Rose", 3, "White");

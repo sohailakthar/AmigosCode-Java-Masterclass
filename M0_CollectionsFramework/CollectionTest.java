@@ -1,5 +1,4 @@
-package com.sohail.CollectionsFramework;
-import com.sohail.CollectionsFramework.CustomCollection;
+package com.sohail.M0_CollectionsFramework;
 
 import java.util.Iterator;
 

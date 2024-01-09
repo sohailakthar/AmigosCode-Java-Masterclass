@@ -1,4 +1,6 @@
-package com.sohail.M12_ClassesAndObjects;
+package com.sohail.M12_ClassesAndObjects.Person;
+
+import com.sohail.M12_ClassesAndObjects.Cat.Cat;
 
 import java.util.Arrays;
 import java.util.Objects;

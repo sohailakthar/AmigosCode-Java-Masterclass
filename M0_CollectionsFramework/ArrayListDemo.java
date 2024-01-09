@@ -1,8 +1,6 @@
-package com.sohail.CollectionsFramework;
+package com.sohail.M0_CollectionsFramework;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class ArrayListDemo {
